@@ -6,7 +6,8 @@ public class Main {
     public static void main(String[] args) {
 
         //Begin of program, start GUI
-        Gui giaodien = new Gui();
+        //Start GUI using IntelliJ GUI form
+        Gui_ver2 giaodien = new Gui_ver2();
         giaodien.startgui();
     }
 }
